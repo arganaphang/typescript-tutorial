@@ -1,0 +1,17 @@
+- [ ] Variable
+  - [ ] String
+  - [ ] Boolean
+  - [ ] Number
+- [ ] Array
+- [ ] Object
+  - [ ] Custom Type
+- [ ] Looping
+  - [ ] For
+  - [ ] While
+- [ ] Conditional
+  - [ ] If Else
+  - [ ] Switch
+  - [ ] Ternary Operator
+- [ ] Function
+- [ ] Exception/Try Catch
+- [ ] Promise/Async Await
